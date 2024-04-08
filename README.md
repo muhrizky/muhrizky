@@ -2,7 +2,7 @@
 
 
 <!-- Here are some ideas to get you started: -->
-I'm currently working as a Odoo Technical Developer. Mainly in software development especially ERP (Enterprise Resource Planning) using Odoo development framework. With the basic programming Python and Javascript in it I have 3 year of experience in developing Odoo software
+I'm currently working as a Odoo Technical Developer. Mainly in software development especially ERP (Enterprise Resource Planning) using Odoo development framework. With the basic programming Python and Javascript in it I have 5 year of experience in developing Odoo software
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
